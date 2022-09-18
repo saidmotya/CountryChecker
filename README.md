@@ -1,3 +1,4 @@
+![screen](https://raw.githubusercontent.com/saidmotya/CountryChecker/master/screen.png)
 
 # CountryChecker [![](https://jitpack.io/v/saidmotya/CountryChecker.svg)](https://jitpack.io/#saidmotya/CountryChecker)
 
